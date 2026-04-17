@@ -22,7 +22,6 @@ OpenCore EFI configuration to run macOS Sequoia on HP ProBook 430 G5.
 ---
 
 ### ⚙️ BIOS Setup
-Berikut adalah pengaturan BIOS yang direkomendasikan untuk stabilitas maksimal:
 
 #### **Advanced / Security**
 - [x] **Disable** Intel SGX
