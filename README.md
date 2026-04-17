@@ -3,7 +3,7 @@
 ![macOS Version](https://img.shields.io/badge/macOS-Sequoia-blue?style=for-the-badge&logo=apple)
 ![OpenCore](https://img.shields.io/badge/OpenCore-0.9.9-green?style=for-the-badge&logo=opencore)
 
-Konfigurasi OpenCore EFI untuk menjalankan macOS Sequoia pada HP ProBook 430 G5. 
+OpenCore EFI configuration to run macOS Sequoia on HP ProBook 430 G5. 
 
 ---
 
